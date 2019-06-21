@@ -21,10 +21,11 @@ jest
 nmq
 
 #### `.env` requirements
-none
+PORT=3000
 
 #### Running the app
 * `nodemon logger.js`
+* `npm start`
 
 #### Tests
 * How do you run tests?

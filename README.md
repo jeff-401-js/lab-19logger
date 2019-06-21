@@ -22,6 +22,7 @@ nmq
 
 #### `.env` requirements
 PORT=3000
+Q_SERVER=http://localhost:3000
 
 #### Running the app
 * `nodemon logger.js`
